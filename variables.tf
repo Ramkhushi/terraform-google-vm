@@ -1,3 +1,3 @@
 variable "vm-name" {
-  default = "testterraform-cloud"
+  default = "testterraform-cloud12"
 }
