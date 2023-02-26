@@ -1,3 +1,3 @@
 variable "vm-name" {
-  default = "testterraform-cloud12"
+  default = "testterraform-cloud12githubhook"
 }
